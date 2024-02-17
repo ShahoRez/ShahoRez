@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaho Rezaei</h1>
 <h3 align="center">I am a Junior DevOps and Software Engineer.</h3>
 
+<p align="left> I am a Junior DevOps and Software Engineer with 10 years of IT experience, specializing in telecommunications projects. My recent certification in DevOps and Software Engineering through IBM via Coursera has equipped me with expertise in Python, Flask, Git/GitHub, Docker, and CI/CD </p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahorez&label=Profile%20views&color=0e75b6&style=flat" alt="shahorez" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahorez" alt="shahorez" /></a> </p>
 
 - 🌱 I’m currently learning **Nodejs**
 
